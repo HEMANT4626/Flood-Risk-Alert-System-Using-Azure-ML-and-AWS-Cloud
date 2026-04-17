@@ -1,0 +1,13 @@
+{
+  "name": "flood-risk-alert-sender",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@aws-sdk/client-sns": "^3.0.0",
+    "express": "^5.2.1"
+  }
+}
